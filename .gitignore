@@ -171,3 +171,19 @@ aaa.md
 img.jpg
 test_data
 testsrc.mp4
+
+# Graphify generated output
+graphify-out/
+graphify-out_backup_*/
+cache/
+backups/
+logs/
+
+# Secrets & credentials
+.env
+.env.*
+
+# Local data / DB
+*.sqlite
+*.sqlite3
+*.db
