@@ -1,0 +1,3469 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "app.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "app.py",
+      "id": "app"
+    },
+    {
+      "label": "connect()",
+      "file_type": "code",
+      "source_file": "app.py",
+      "source_location": "L22",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "connect()",
+      "id": "app_connect"
+    },
+    {
+      "label": "run()",
+      "file_type": "code",
+      "source_file": "app.py",
+      "source_location": "L49",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "run()",
+      "id": "app_run"
+    },
+    {
+      "label": "run.sh",
+      "file_type": "code",
+      "source_file": "docker/run.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "_origin": "ast",
+      "community": 10,
+      "norm_label": "run.sh",
+      "id": "docker_run"
+    },
+    {
+      "label": "run.sh script",
+      "file_type": "code",
+      "source_file": "docker/run.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "_origin": "ast",
+      "community": 10,
+      "norm_label": "run.sh script",
+      "id": "c_ai_agent_workspace_repos_refacer_docker_run_sh__entry"
+    },
+    {
+      "label": "manifest.json",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "manifest.json",
+      "id": "2026_06_15_manifest"
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "app.py",
+      "id": "2026_06_15_manifest_app_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "mtime",
+      "id": "2026_06_15_manifest_app_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "ast_hash",
+      "id": "2026_06_15_manifest_app_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "semantic_hash",
+      "id": "2026_06_15_manifest_app_py_semantic_hash"
+    },
+    {
+      "label": "docker/run.sh",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "docker/run.sh",
+      "id": "2026_06_15_manifest_docker_run_sh"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "mtime",
+      "id": "2026_06_15_manifest_docker_run_sh_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "ast_hash",
+      "id": "2026_06_15_manifest_docker_run_sh_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "semantic_hash",
+      "id": "2026_06_15_manifest_docker_run_sh_semantic_hash"
+    },
+    {
+      "label": "recognition/arcface_onnx.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "recognition/arcface_onnx.py",
+      "id": "2026_06_15_manifest_recognition_arcface_onnx_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "mtime",
+      "id": "2026_06_15_manifest_recognition_arcface_onnx_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "ast_hash",
+      "id": "2026_06_15_manifest_recognition_arcface_onnx_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "semantic_hash",
+      "id": "2026_06_15_manifest_recognition_arcface_onnx_py_semantic_hash"
+    },
+    {
+      "label": "recognition/face_align.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "recognition/face_align.py",
+      "id": "2026_06_15_manifest_recognition_face_align_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "mtime",
+      "id": "2026_06_15_manifest_recognition_face_align_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "ast_hash",
+      "id": "2026_06_15_manifest_recognition_face_align_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "semantic_hash",
+      "id": "2026_06_15_manifest_recognition_face_align_py_semantic_hash"
+    },
+    {
+      "label": "recognition/main.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "recognition/main.py",
+      "id": "2026_06_15_manifest_recognition_main_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "mtime",
+      "id": "2026_06_15_manifest_recognition_main_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "ast_hash",
+      "id": "2026_06_15_manifest_recognition_main_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L25",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "semantic_hash",
+      "id": "2026_06_15_manifest_recognition_main_py_semantic_hash"
+    },
+    {
+      "label": "recognition/scrfd.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L27",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "recognition/scrfd.py",
+      "id": "2026_06_15_manifest_recognition_scrfd_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L28",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "mtime",
+      "id": "2026_06_15_manifest_recognition_scrfd_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L29",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "ast_hash",
+      "id": "2026_06_15_manifest_recognition_scrfd_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L30",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "semantic_hash",
+      "id": "2026_06_15_manifest_recognition_scrfd_py_semantic_hash"
+    },
+    {
+      "label": "refacer.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L32",
+      "_origin": "ast",
+      "community": 8,
+      "norm_label": "refacer.py",
+      "id": "2026_06_15_manifest_refacer_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "community": 8,
+      "norm_label": "mtime",
+      "id": "2026_06_15_manifest_refacer_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L34",
+      "_origin": "ast",
+      "community": 8,
+      "norm_label": "ast_hash",
+      "id": "2026_06_15_manifest_refacer_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L35",
+      "_origin": "ast",
+      "community": 8,
+      "norm_label": "semantic_hash",
+      "id": "2026_06_15_manifest_refacer_py_semantic_hash"
+    },
+    {
+      "label": "script.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L37",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "script.py",
+      "id": "2026_06_15_manifest_script_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L38",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "mtime",
+      "id": "2026_06_15_manifest_script_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L39",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "ast_hash",
+      "id": "2026_06_15_manifest_script_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L40",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "semantic_hash",
+      "id": "2026_06_15_manifest_script_py_semantic_hash"
+    },
+    {
+      "label": "manifest.json",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "manifest.json",
+      "id": "graphify_out_backup_20260616_011025_manifest"
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "app.py",
+      "id": "graphify_out_backup_20260616_011025_manifest_app_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "mtime",
+      "id": "graphify_out_backup_20260616_011025_manifest_app_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "ast_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_app_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "semantic_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_app_py_semantic_hash"
+    },
+    {
+      "label": "docker/run.sh",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "docker/run.sh",
+      "id": "graphify_out_backup_20260616_011025_manifest_docker_run_sh"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "mtime",
+      "id": "graphify_out_backup_20260616_011025_manifest_docker_run_sh_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "ast_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_docker_run_sh_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "semantic_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_docker_run_sh_semantic_hash"
+    },
+    {
+      "label": "recognition/arcface_onnx.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "recognition/arcface_onnx.py",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "mtime",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "ast_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "semantic_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py_semantic_hash"
+    },
+    {
+      "label": "recognition/face_align.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "community": 9,
+      "norm_label": "recognition/face_align.py",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "community": 9,
+      "norm_label": "mtime",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "community": 9,
+      "norm_label": "ast_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "community": 9,
+      "norm_label": "semantic_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py_semantic_hash"
+    },
+    {
+      "label": "recognition/main.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "recognition/main.py",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_main_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "mtime",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_main_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "ast_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_main_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L25",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "semantic_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_main_py_semantic_hash"
+    },
+    {
+      "label": "recognition/scrfd.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L27",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "recognition/scrfd.py",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L28",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "mtime",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L29",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "ast_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L30",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "semantic_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py_semantic_hash"
+    },
+    {
+      "label": "refacer.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L32",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "refacer.py",
+      "id": "graphify_out_backup_20260616_011025_manifest_refacer_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "mtime",
+      "id": "graphify_out_backup_20260616_011025_manifest_refacer_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L34",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "ast_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_refacer_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L35",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "semantic_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_refacer_py_semantic_hash"
+    },
+    {
+      "label": "script.py",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L37",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "script.py",
+      "id": "graphify_out_backup_20260616_011025_manifest_script_py"
+    },
+    {
+      "label": "mtime",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L38",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "mtime",
+      "id": "graphify_out_backup_20260616_011025_manifest_script_py_mtime"
+    },
+    {
+      "label": "ast_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L39",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "ast_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_script_py_ast_hash"
+    },
+    {
+      "label": "semantic_hash",
+      "file_type": "code",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L40",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "semantic_hash",
+      "id": "graphify_out_backup_20260616_011025_manifest_script_py_semantic_hash"
+    },
+    {
+      "label": "arcface_onnx.py",
+      "file_type": "code",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": "arcface_onnx.py",
+      "id": "recognition_arcface_onnx"
+    },
+    {
+      "label": "ArcFaceONNX",
+      "file_type": "code",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L18",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": "arcfaceonnx",
+      "id": "recognition_arcface_onnx_arcfaceonnx"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L19",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": ".__init__()",
+      "id": "recognition_arcface_onnx_arcfaceonnx_init"
+    },
+    {
+      "label": ".prepare()",
+      "file_type": "code",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L60",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": ".prepare()",
+      "id": "recognition_arcface_onnx_arcfaceonnx_prepare"
+    },
+    {
+      "label": ".get()",
+      "file_type": "code",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L64",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": ".get()",
+      "id": "recognition_arcface_onnx_arcfaceonnx_get"
+    },
+    {
+      "label": ".compute_sim()",
+      "file_type": "code",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L69",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": ".compute_sim()",
+      "id": "recognition_arcface_onnx_arcfaceonnx_compute_sim"
+    },
+    {
+      "label": ".get_feat()",
+      "file_type": "code",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L76",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": ".get_feat()",
+      "id": "recognition_arcface_onnx_arcfaceonnx_get_feat"
+    },
+    {
+      "label": ".forward()",
+      "file_type": "code",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L86",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": ".forward()",
+      "id": "recognition_arcface_onnx_arcfaceonnx_forward"
+    },
+    {
+      "label": "face_align.py",
+      "file_type": "code",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 7,
+      "norm_label": "face_align.py",
+      "id": "recognition_face_align"
+    },
+    {
+      "label": "estimate_norm()",
+      "file_type": "code",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L42",
+      "_origin": "ast",
+      "community": 7,
+      "norm_label": "estimate_norm()",
+      "id": "recognition_face_align_estimate_norm"
+    },
+    {
+      "label": "norm_crop()",
+      "file_type": "code",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L70",
+      "_origin": "ast",
+      "community": 7,
+      "norm_label": "norm_crop()",
+      "id": "recognition_face_align_norm_crop"
+    },
+    {
+      "label": "square_crop()",
+      "file_type": "code",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L75",
+      "_origin": "ast",
+      "community": 7,
+      "norm_label": "square_crop()",
+      "id": "recognition_face_align_square_crop"
+    },
+    {
+      "label": "transform()",
+      "file_type": "code",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L90",
+      "_origin": "ast",
+      "community": 7,
+      "norm_label": "transform()",
+      "id": "recognition_face_align_transform"
+    },
+    {
+      "label": "trans_points2d()",
+      "file_type": "code",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L109",
+      "_origin": "ast",
+      "community": 7,
+      "norm_label": "trans_points2d()",
+      "id": "recognition_face_align_trans_points2d"
+    },
+    {
+      "label": "trans_points3d()",
+      "file_type": "code",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L121",
+      "_origin": "ast",
+      "community": 7,
+      "norm_label": "trans_points3d()",
+      "id": "recognition_face_align_trans_points3d"
+    },
+    {
+      "label": "trans_points()",
+      "file_type": "code",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L136",
+      "_origin": "ast",
+      "community": 7,
+      "norm_label": "trans_points()",
+      "id": "recognition_face_align_trans_points"
+    },
+    {
+      "label": "main.py",
+      "file_type": "code",
+      "source_file": "recognition/main.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": "main.py",
+      "id": "recognition_main"
+    },
+    {
+      "label": "parse_args()",
+      "file_type": "code",
+      "source_file": "recognition/main.py",
+      "source_location": "L22",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": "parse_args()",
+      "id": "recognition_main_parse_args"
+    },
+    {
+      "label": "Namespace",
+      "file_type": "code",
+      "source_file": "recognition/main.py",
+      "source_location": "L22",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": "namespace",
+      "id": "namespace"
+    },
+    {
+      "label": "func()",
+      "file_type": "code",
+      "source_file": "recognition/main.py",
+      "source_location": "L29",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": "func()",
+      "id": "recognition_main_func"
+    },
+    {
+      "label": "scrfd.py",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": "scrfd.py",
+      "id": "recognition_scrfd"
+    },
+    {
+      "label": "softmax()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L12",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": "softmax()",
+      "id": "recognition_scrfd_softmax"
+    },
+    {
+      "label": "distance2bbox()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L21",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": "distance2bbox()",
+      "id": "recognition_scrfd_distance2bbox"
+    },
+    {
+      "label": "distance2kps()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L44",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": "distance2kps()",
+      "id": "recognition_scrfd_distance2kps"
+    },
+    {
+      "label": "SCRFD",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L67",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": "scrfd",
+      "id": "recognition_scrfd_scrfd"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L68",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": ".__init__()",
+      "id": "recognition_scrfd_scrfd_init"
+    },
+    {
+      "label": "._init_vars()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L83",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": "._init_vars()",
+      "id": "recognition_scrfd_scrfd_init_vars"
+    },
+    {
+      "label": ".prepare()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L128",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": ".prepare()",
+      "id": "recognition_scrfd_scrfd_prepare"
+    },
+    {
+      "label": ".forward()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L144",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": ".forward()",
+      "id": "recognition_scrfd_scrfd_forward"
+    },
+    {
+      "label": ".detect()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L215",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": ".detect()",
+      "id": "recognition_scrfd_scrfd_detect"
+    },
+    {
+      "label": ".autodetect()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L271",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": ".autodetect()",
+      "id": "recognition_scrfd_scrfd_autodetect"
+    },
+    {
+      "label": ".nms()",
+      "file_type": "code",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L300",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": ".nms()",
+      "id": "recognition_scrfd_scrfd_nms"
+    },
+    {
+      "label": "Decode distance prediction to bounding box.      Args:         points (Tensor",
+      "file_type": "rationale",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L22",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": "decode distance prediction to bounding box.      args:         points (tensor",
+      "id": "recognition_scrfd_rationale_22"
+    },
+    {
+      "label": "refacer.py",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "refacer.py",
+      "id": "refacer"
+    },
+    {
+      "label": "RefacerMode",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L24",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "refacermode",
+      "id": "refacer_refacermode"
+    },
+    {
+      "label": "Enum",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "enum",
+      "id": "enum"
+    },
+    {
+      "label": "Refacer",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L27",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "refacer",
+      "id": "refacer_refacer"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L28",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".__init__()",
+      "id": "refacer_refacer_init"
+    },
+    {
+      "label": ".__check_providers()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L37",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".__check_providers()",
+      "id": "refacer_refacer_check_providers"
+    },
+    {
+      "label": ".__init_apps()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L80",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".__init_apps()",
+      "id": "refacer_refacer_init_apps"
+    },
+    {
+      "label": ".prepare_faces()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L97",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".prepare_faces()",
+      "id": "refacer_refacer_prepare_faces"
+    },
+    {
+      "label": ".__convert_video()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L118",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".__convert_video()",
+      "id": "refacer_refacer_convert_video"
+    },
+    {
+      "label": ".__get_faces()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L134",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".__get_faces()",
+      "id": "refacer_refacer_get_faces"
+    },
+    {
+      "label": ".process_first_face()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L152",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".process_first_face()",
+      "id": "refacer_refacer_process_first_face"
+    },
+    {
+      "label": ".process_faces()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L158",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".process_faces()",
+      "id": "refacer_refacer_process_faces"
+    },
+    {
+      "label": ".__check_video_has_audio()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L169",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".__check_video_has_audio()",
+      "id": "refacer_refacer_check_video_has_audio"
+    },
+    {
+      "label": ".reface_group()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L176",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".reface_group()",
+      "id": "refacer_refacer_reface_group"
+    },
+    {
+      "label": ".reface()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L185",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".reface()",
+      "id": "refacer_refacer_reface"
+    },
+    {
+      "label": ".__try_ffmpeg_encoder()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L224",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".__try_ffmpeg_encoder()",
+      "id": "refacer_refacer_try_ffmpeg_encoder"
+    },
+    {
+      "label": ".__check_encoders()",
+      "file_type": "code",
+      "source_file": "refacer.py",
+      "source_location": "L235",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": ".__check_encoders()",
+      "id": "refacer_refacer_check_encoders"
+    },
+    {
+      "label": "script.py",
+      "file_type": "code",
+      "source_file": "script.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "script.py",
+      "id": "script"
+    },
+    {
+      "label": "run()",
+      "file_type": "code",
+      "source_file": "script.py",
+      "source_location": "L15",
+      "_origin": "ast",
+      "community": 2,
+      "norm_label": "run()",
+      "id": "script_run"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "readme.md",
+      "id": "readme"
+    },
+    {
+      "label": "Refacer: One-Click Deepfake Multi-Face Swap Tool",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "refacer: one-click deepfake multi-face swap tool",
+      "id": "readme_refacer_one_click_deepfake_multi_face_swap_tool"
+    },
+    {
+      "label": "Roop",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "roop",
+      "id": "readme_roop"
+    },
+    {
+      "label": "Insightface",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "insightface",
+      "id": "readme_insightface"
+    },
+    {
+      "label": "Disclaimer",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "disclaimer",
+      "id": "readme_disclaimer"
+    },
+    {
+      "label": "System Compatibility",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "system compatibility",
+      "id": "readme_system_compatibility"
+    },
+    {
+      "label": "Prerequisites",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "prerequisites",
+      "id": "readme_prerequisites"
+    },
+    {
+      "label": "Installation",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "installation",
+      "id": "readme_installation"
+    },
+    {
+      "label": "Usage",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "usage",
+      "id": "readme_usage"
+    },
+    {
+      "label": "Questions?",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "questions?",
+      "id": "readme_questions"
+    },
+    {
+      "label": "Recognition Module",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "recognition module",
+      "id": "readme_recognition_module"
+    },
+    {
+      "label": "Open In Colab",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "open in colab",
+      "id": "readme_colab_badge"
+    },
+    {
+      "label": "Watch demo on Youtube",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "watch demo on youtube",
+      "id": "readme_youtube_demo_link"
+    },
+    {
+      "label": "demonstration",
+      "file_type": "image",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "demonstration",
+      "id": "readme_demo_gif"
+    },
+    {
+      "label": "Watch the video",
+      "file_type": "image",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "watch the video",
+      "id": "readme_youtube_video_thumbnail"
+    },
+    {
+      "label": "How to Install FFmpeg",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "how to install ffmpeg",
+      "id": "readme_ffmpeg_install_guide"
+    },
+    {
+      "label": "ONNX Runtime repository",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "onnx runtime repository",
+      "id": "readme_onnx_runtime_repo"
+    },
+    {
+      "label": "Insightface example",
+      "file_type": "document",
+      "source_file": "README.md",
+      "community": 3,
+      "norm_label": "insightface example",
+      "id": "readme_insightface_example"
+    },
+    {
+      "label": "requirements-COREML.txt",
+      "file_type": "document",
+      "source_file": "requirements-COREML.txt",
+      "community": 3,
+      "norm_label": "requirements-coreml.txt",
+      "id": "requirements_coreml"
+    },
+    {
+      "label": "requirements.txt",
+      "file_type": "document",
+      "source_file": "requirements.txt",
+      "community": 3,
+      "norm_label": "requirements.txt",
+      "id": "requirements"
+    },
+    {
+      "label": "GRAPH_REPORT.md",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "graph_report.md",
+      "id": "graph_report_md"
+    },
+    {
+      "label": "Refacer: One-Click Deepfake Multi-Face Swap Tool",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "refacer: one-click deepfake multi-face swap tool",
+      "id": "graph_report_md_refacer_one_click_deepfake_multi_face_swap_tool"
+    },
+    {
+      "label": "Refacer",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "refacer",
+      "id": "graph_report_md_refacer"
+    },
+    {
+      "label": "SCRFD",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "scrfd",
+      "id": "graph_report_md_scrfd"
+    },
+    {
+      "label": "ArcFaceONNX",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "arcfaceonnx",
+      "id": "graph_report_md_arcfaceonnx"
+    },
+    {
+      "label": "RefacerMode",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "refacermode",
+      "id": "graph_report_md_refacermode"
+    },
+    {
+      "label": "Insightface",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "insightface",
+      "id": "graph_report_md_insightface"
+    },
+    {
+      "label": "trans_points()",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "trans_points()",
+      "id": "graph_report_md_trans_points"
+    },
+    {
+      "label": "Namespace",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "namespace",
+      "id": "graph_report_md_namespace"
+    },
+    {
+      "label": "distance2bbox()",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "distance2bbox()",
+      "id": "graph_report_md_distance2bbox"
+    },
+    {
+      "label": "distance2kps()",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "distance2kps()",
+      "id": "graph_report_md_distance2kps"
+    },
+    {
+      "label": "Refacer Side-by-Side Comparison",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "refacer side-by-side comparison",
+      "id": "graph_report_md_refacer_side_by_side_comparison"
+    },
+    {
+      "label": "Refacer Web UI Interface",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "refacer web ui interface",
+      "id": "graph_report_md_refacer_web_ui_interface"
+    },
+    {
+      "label": "FFmpeg",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "ffmpeg",
+      "id": "graph_report_md_ffmpeg"
+    },
+    {
+      "label": "inswapper_128.onnx",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "inswapper_128.onnx",
+      "id": "graph_report_md_inswapper_128_onnx"
+    },
+    {
+      "label": "Roop",
+      "file_type": "concept",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "roop",
+      "id": "graph_report_md_roop_concept"
+    },
+    {
+      "label": "Recognition Module",
+      "file_type": "concept",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "recognition module",
+      "id": "graph_report_md_recognition_module_concept"
+    },
+    {
+      "label": "CPU Requirements",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "cpu requirements",
+      "id": "graph_report_md_cpu_requirements"
+    },
+    {
+      "label": "CoreML Requirements",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "community": 4,
+      "norm_label": "coreml requirements",
+      "id": "graph_report_md_coreml_requirements"
+    },
+    {
+      "label": "graph.html",
+      "file_type": "document",
+      "source_file": "graphify-out_backup_20260616_011025/graph.html",
+      "community": 4,
+      "norm_label": "graph.html",
+      "id": "graph_html"
+    },
+    {
+      "label": "demo.gif",
+      "file_type": "image",
+      "source_file": "demo.gif",
+      "community": 3,
+      "norm_label": "demo.gif",
+      "id": "demo_gif"
+    },
+    {
+      "label": "image.jpg",
+      "file_type": "image",
+      "source_file": "image.jpg",
+      "community": 3,
+      "norm_label": "image.jpg",
+      "id": "image_jpg"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app",
+      "target": "app_connect"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app.py",
+      "source_location": "L49",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app",
+      "target": "app_run"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app.py",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app",
+      "target": "refacer"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app.py",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app",
+      "target": "refacer_refacer"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docker/run.sh",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docker_run",
+      "target": "c_ai_agent_workspace_repos_refacer_docker_run_sh__entry"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest",
+      "target": "2026_06_15_manifest_app_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest",
+      "target": "2026_06_15_manifest_docker_run_sh"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest",
+      "target": "2026_06_15_manifest_recognition_arcface_onnx_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest",
+      "target": "2026_06_15_manifest_recognition_face_align_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest",
+      "target": "2026_06_15_manifest_recognition_main_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest",
+      "target": "2026_06_15_manifest_recognition_scrfd_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest",
+      "target": "2026_06_15_manifest_refacer_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest",
+      "target": "2026_06_15_manifest_script_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_app_py",
+      "target": "2026_06_15_manifest_app_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_app_py",
+      "target": "2026_06_15_manifest_app_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_app_py",
+      "target": "2026_06_15_manifest_app_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_docker_run_sh",
+      "target": "2026_06_15_manifest_docker_run_sh_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_docker_run_sh",
+      "target": "2026_06_15_manifest_docker_run_sh_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_docker_run_sh",
+      "target": "2026_06_15_manifest_docker_run_sh_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_arcface_onnx_py",
+      "target": "2026_06_15_manifest_recognition_arcface_onnx_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_arcface_onnx_py",
+      "target": "2026_06_15_manifest_recognition_arcface_onnx_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_arcface_onnx_py",
+      "target": "2026_06_15_manifest_recognition_arcface_onnx_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_face_align_py",
+      "target": "2026_06_15_manifest_recognition_face_align_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_face_align_py",
+      "target": "2026_06_15_manifest_recognition_face_align_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_face_align_py",
+      "target": "2026_06_15_manifest_recognition_face_align_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_main_py",
+      "target": "2026_06_15_manifest_recognition_main_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_main_py",
+      "target": "2026_06_15_manifest_recognition_main_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_main_py",
+      "target": "2026_06_15_manifest_recognition_main_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_scrfd_py",
+      "target": "2026_06_15_manifest_recognition_scrfd_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_scrfd_py",
+      "target": "2026_06_15_manifest_recognition_scrfd_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_recognition_scrfd_py",
+      "target": "2026_06_15_manifest_recognition_scrfd_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_refacer_py",
+      "target": "2026_06_15_manifest_refacer_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_refacer_py",
+      "target": "2026_06_15_manifest_refacer_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_refacer_py",
+      "target": "2026_06_15_manifest_refacer_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_script_py",
+      "target": "2026_06_15_manifest_script_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_script_py",
+      "target": "2026_06_15_manifest_script_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/2026-06-15/manifest.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "2026_06_15_manifest_script_py",
+      "target": "2026_06_15_manifest_script_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest",
+      "target": "graphify_out_backup_20260616_011025_manifest_app_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest",
+      "target": "graphify_out_backup_20260616_011025_manifest_docker_run_sh"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_main_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest",
+      "target": "graphify_out_backup_20260616_011025_manifest_refacer_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest",
+      "target": "graphify_out_backup_20260616_011025_manifest_script_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_app_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_app_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_app_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_app_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_app_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_app_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_docker_run_sh",
+      "target": "graphify_out_backup_20260616_011025_manifest_docker_run_sh_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_docker_run_sh",
+      "target": "graphify_out_backup_20260616_011025_manifest_docker_run_sh_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_docker_run_sh",
+      "target": "graphify_out_backup_20260616_011025_manifest_docker_run_sh_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_arcface_onnx_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_face_align_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_main_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_main_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_main_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_main_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_main_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_main_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_recognition_scrfd_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_refacer_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_refacer_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_refacer_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_refacer_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_refacer_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_refacer_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_script_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_script_py_ast_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_script_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_script_py_mtime"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out_backup_20260616_011025/manifest.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_out_backup_20260616_011025_manifest_script_py",
+      "target": "graphify_out_backup_20260616_011025_manifest_script_py_semantic_hash"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_arcface_onnx",
+      "target": "recognition_arcface_onnx_arcfaceonnx"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "recognition/main.py",
+      "source_location": "L10",
+      "weight": 0.8,
+      "confidence_score": 0.5,
+      "source": "namespace",
+      "target": "recognition_arcface_onnx_arcfaceonnx"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L69",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_arcface_onnx_arcfaceonnx",
+      "target": "recognition_arcface_onnx_arcfaceonnx_compute_sim"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L86",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_arcface_onnx_arcfaceonnx",
+      "target": "recognition_arcface_onnx_arcfaceonnx_forward"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_arcface_onnx_arcfaceonnx",
+      "target": "recognition_arcface_onnx_arcfaceonnx_get"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_arcface_onnx_arcfaceonnx",
+      "target": "recognition_arcface_onnx_arcfaceonnx_get_feat"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_arcface_onnx_arcfaceonnx",
+      "target": "recognition_arcface_onnx_arcfaceonnx_init"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L60",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_arcface_onnx_arcfaceonnx",
+      "target": "recognition_arcface_onnx_arcfaceonnx_prepare"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "refacer.py",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "refacer_refacer_init_apps",
+      "target": "recognition_arcface_onnx_arcfaceonnx"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "refacer.py",
+      "source_location": "L7",
+      "weight": 0.8,
+      "confidence_score": 0.5,
+      "source": "refacer_refacermode",
+      "target": "recognition_arcface_onnx_arcfaceonnx"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/arcface_onnx.py",
+      "source_location": "L66",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_arcface_onnx_arcfaceonnx_get",
+      "target": "recognition_arcface_onnx_arcfaceonnx_get_feat"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align",
+      "target": "recognition_face_align_estimate_norm"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L70",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align",
+      "target": "recognition_face_align_norm_crop"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L75",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align",
+      "target": "recognition_face_align_square_crop"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L136",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align",
+      "target": "recognition_face_align_trans_points"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L109",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align",
+      "target": "recognition_face_align_trans_points2d"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L121",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align",
+      "target": "recognition_face_align_trans_points3d"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L90",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align",
+      "target": "recognition_face_align_transform"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L71",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align_norm_crop",
+      "target": "recognition_face_align_estimate_norm"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L138",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align_trans_points",
+      "target": "recognition_face_align_trans_points2d"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/face_align.py",
+      "source_location": "L140",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_face_align_trans_points",
+      "target": "recognition_face_align_trans_points3d"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/main.py",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_main",
+      "target": "recognition_main_func"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/main.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_main",
+      "target": "recognition_main_parse_args"
+    },
+    {
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/main.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_main_parse_args",
+      "target": "namespace"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "recognition/main.py",
+      "source_location": "L9",
+      "weight": 0.8,
+      "confidence_score": 0.5,
+      "source": "namespace",
+      "target": "recognition_scrfd_scrfd"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd",
+      "target": "recognition_scrfd_distance2bbox"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd",
+      "target": "recognition_scrfd_distance2kps"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L67",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd",
+      "target": "recognition_scrfd_scrfd"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd",
+      "target": "recognition_scrfd_softmax"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_rationale_22",
+      "target": "recognition_scrfd_distance2bbox"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L202",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd_forward",
+      "target": "recognition_scrfd_distance2bbox"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_rationale_22",
+      "target": "recognition_scrfd_distance2kps"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L208",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd_forward",
+      "target": "recognition_scrfd_distance2kps"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L271",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd",
+      "target": "recognition_scrfd_scrfd_autodetect"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L215",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd",
+      "target": "recognition_scrfd_scrfd_detect"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L144",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd",
+      "target": "recognition_scrfd_scrfd_forward"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L68",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd",
+      "target": "recognition_scrfd_scrfd_init"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L83",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd",
+      "target": "recognition_scrfd_scrfd_init_vars"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L300",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd",
+      "target": "recognition_scrfd_scrfd_nms"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L128",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd",
+      "target": "recognition_scrfd_scrfd_prepare"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "refacer.py",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "refacer_refacer_init_apps",
+      "target": "recognition_scrfd_scrfd"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "refacer.py",
+      "source_location": "L6",
+      "weight": 0.8,
+      "confidence_score": 0.5,
+      "source": "refacer_refacermode",
+      "target": "recognition_scrfd_scrfd"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L81",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd_init",
+      "target": "recognition_scrfd_scrfd_init_vars"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L233",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd_detect",
+      "target": "recognition_scrfd_scrfd_forward"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L272",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd_autodetect",
+      "target": "recognition_scrfd_scrfd_detect"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L243",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd_detect",
+      "target": "recognition_scrfd_scrfd_nms"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "recognition/scrfd.py",
+      "source_location": "L276",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "recognition_scrfd_scrfd_autodetect",
+      "target": "recognition_scrfd_scrfd_nms"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer",
+      "target": "enum"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer",
+      "target": "refacer_refacer"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer",
+      "target": "refacer_refacermode"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "script.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "script",
+      "target": "refacer"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacermode",
+      "target": "enum"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L235",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_check_encoders"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_check_providers"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L169",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_check_video_has_audio"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L118",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_convert_video"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L134",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_get_faces"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_init"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L80",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_init_apps"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L97",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_prepare_faces"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L158",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_process_faces"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L152",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_process_first_face"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L185",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_reface"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L176",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_reface_group"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L224",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer",
+      "target": "refacer_refacer_try_ffmpeg_encoder"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "script.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "script",
+      "target": "refacer_refacer"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_init",
+      "target": "refacer_refacer_check_encoders"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_init",
+      "target": "refacer_refacer_check_providers"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_init",
+      "target": "refacer_refacer_init_apps"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L113",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_prepare_faces",
+      "target": "refacer_refacer_get_faces"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L188",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_reface",
+      "target": "refacer_refacer_prepare_faces"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L222",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_reface",
+      "target": "refacer_refacer_convert_video"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L159",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_process_faces",
+      "target": "refacer_refacer_get_faces"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L153",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_process_first_face",
+      "target": "refacer_refacer_get_faces"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L186",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_reface",
+      "target": "refacer_refacer_check_video_has_audio"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L212",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_reface",
+      "target": "refacer_refacer_reface_group"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "refacer.py",
+      "source_location": "L249",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "refacer_refacer_check_encoders",
+      "target": "refacer_refacer_try_ffmpeg_encoder"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "script",
+      "target": "script_run"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "demo.gif",
+      "source": "demo_gif",
+      "target": "readme"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "image.jpg",
+      "source": "image_jpg",
+      "target": "readme"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_colab_badge"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_demo_gif"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_disclaimer"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_ffmpeg_install_guide"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_insightface_example"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_installation"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_onnx_runtime_repo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_prerequisites"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_questions"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_recognition_module"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_refacer_one_click_deepfake_multi_face_swap_tool"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_system_compatibility"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_usage"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_youtube_demo_link"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme",
+      "target": "readme_youtube_video_thumbnail"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "requirements.txt",
+      "source": "requirements",
+      "target": "readme"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "requirements-COREML.txt",
+      "source": "requirements_coreml",
+      "target": "readme"
+    },
+    {
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme_refacer_one_click_deepfake_multi_face_swap_tool",
+      "target": "readme_insightface"
+    },
+    {
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source": "readme_refacer_one_click_deepfake_multi_face_swap_tool",
+      "target": "readme_roop"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "requirements.txt",
+      "source": "requirements",
+      "target": "readme_insightface"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "requirements-COREML.txt",
+      "source": "requirements_coreml",
+      "target": "readme_insightface"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_html"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_arcfaceonnx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_coreml_requirements"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_cpu_requirements"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_distance2bbox"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_distance2kps"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_ffmpeg"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_inswapper_128_onnx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_namespace"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_recognition_module_concept"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_refacer"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_refacer_one_click_deepfake_multi_face_swap_tool"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_refacer_side_by_side_comparison"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_refacer_web_ui_interface"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_refacermode"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_roop_concept"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_scrfd"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md",
+      "target": "graph_report_md_trans_points"
+    },
+    {
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md_refacer_one_click_deepfake_multi_face_swap_tool",
+      "target": "graph_report_md_insightface"
+    },
+    {
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md_refacer_one_click_deepfake_multi_face_swap_tool",
+      "target": "graph_report_md_roop_concept"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md_refacer_side_by_side_comparison",
+      "target": "graph_report_md_refacer_one_click_deepfake_multi_face_swap_tool"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md_namespace",
+      "target": "graph_report_md_scrfd"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md_refacermode",
+      "target": "graph_report_md_scrfd"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md_refacermode",
+      "target": "graph_report_md_arcfaceonnx"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out_backup_20260616_011025/GRAPH_REPORT.md",
+      "source": "graph_report_md_coreml_requirements",
+      "target": "graph_report_md_insightface"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "fe947b67682946790df65076f8bf2370a5d87fbc"
+}
